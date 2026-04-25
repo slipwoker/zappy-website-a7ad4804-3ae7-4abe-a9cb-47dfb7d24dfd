@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+צימרים ניידים בעיצוב אישי שמשנים את כללי המשחק! Mr ברזל מביא לך פתרונות מגורים ייחודיים, בנויים במיוחד עבורך. בקר באתר העסקי שלנו וגלה עולם חדש של אפשרויות.
+
+### שירותים
+https://example.com/services
+השירותים שלנו כוללים עיצוב, ייצור והתקנה של צימרים ניידים מותאמים אישית לכל צורך. בנה את הנכס שלך בסטייל עם Mr ברזל — כי אתה מגיע לטוב ביותר!
+
+### אודות
+https://example.com/about
+מי אנחנו? Mr ברזל הוא המוביל בישראל בתחום הצימרים הניידים בעיצוב אישי. גלה את הסיפור, הערכים והמומחיות שהפכו אותנו לשם דבר בתחום בניית הבית המותאם אישית.
+
+### צור קשר
+https://example.com/contact
+מוכן להפוך את החלום למציאות? צור קשר עם צוות המומחים של Mr ברזל עוד היום! קבל ייעוץ אישי חינם לצימר הנייד המושלם עבורך ותתחיל את המסע לחיים שאתה רוצה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Mr ברזל וצימרים ניידים בעיצוב אישי
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Mr ברזל וצימרים ניידים בעיצוב אישי
+
+### Category
+https://example.com/category/:slug
+מוצרים - Mr ברזל וצימרים ניידים בעיצוב אישי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
